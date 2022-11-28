@@ -1,0 +1,400 @@
+[
+
+{
+  "VendorTag": "com.oplus.res.ainight",
+  "Type": "String",
+  "Count": "11",
+  "Value": "lib64/libgnustl_shared.so,
+            lib64/libmegface.so,
+            lib64/libmegvii_superiq.so,
+            lib/libmegface.so,
+            lib/libmegvii_superiq.so,
+            etc/camera/megvii/cache,
+            etc/camera/megvii/siq_ocl_cache,
+            etc/camera/megvii/superiq_model,
+            etc/camera/megvii32/cache,
+            etc/camera/megvii32/siq_ocl_cache,
+            etc/camera/megvii32/superiq_model",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.blurless",
+  "Type": "String",
+  "Count": "4",
+  "Value": "lib64/libVDBlurless.so,
+            lib/libVDBlurlessAPI_v2.so,
+            lib/rfsa/adsp/libvdblurless_skel.so,
+            lib/rfsa/adsp/libVDHexagonBlurless_v2_skel.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.bokeh",
+  "Type": "String",
+  "Count": "5",
+  "Value": "lib64/libarcsoft_hdr_couple_api.so,
+            lib64/libarcsoft_high_dynamic_range_couple.so,
+            lib64/libarcsoft_smart_denoise.so,
+            lib64/libVDDualCameraBlurlessAPI.so,
+            lib/rfsa/adsp/libarcsoft_dualcam_refocus_skel.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.darksight",
+  "Type": "String",
+  "Count": "5",
+  "Value": "etc/camera/darksight/darksight_main.bin,
+            etc/camera/darksight/darksight_ultrawide.bin,
+            lib64/libaps_frame_registration.so,
+            lib64/libapsdarksight.so,
+            lib/rfsa/adsp/libhdr_skel.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.facebeauty",
+  "Type": "String",
+  "Count": "3",
+  "Value": "lib64/libVDEyeEnhance.so,
+            lib64/libarcsoft_beautyshot.so,
+            etc/camera/fb_default",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.faceinfo",
+  "Type": "String",
+  "Count": "3",
+  "Value": "etc/camera/gasryuv_1.2_wp.model,
+            lib64/libstface_fd_api.so,
+            lib/libstface_fd_api.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.facerectify",
+  "Type": "String",
+  "Count": "8",
+  "Value": "etc/camera/anc_cl_kernel.cache,
+            etc/camera/model_fdc.data,
+            etc/camera/settings_fdc.txt,
+            etc/camera/license_release_fdc.lic,
+            lib64/libancbase_segment.so,
+            lib64/libAncSegmentSdk.so,
+            lib64/libFaceDistortionCorrection.so,
+            lib64/libstfd_mobile_api.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.flowingwater",
+  "Type": "String",
+  "Count": "4",
+  "Value": "lib64/libTrafficMode.so,
+            lib64/libWaterMode.so,
+            lib/libTrafficMode.so,
+            lib/libWaterMode.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.filter",
+  "Type": "String",
+  "Count": "2",
+  "Value": "lib64/libPolarrRender.so,
+            lib/libPolarrRender.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.frontnight",
+  "Type": "String",
+  "Count": "5",
+  "Value": "lib64/libarcsoft_portrait_super_night_raw.so,
+            lib64/libarcsoft_portraitSN_hvx_stub.so,
+            lib/libarcsoft_portrait_super_night_raw.so,
+            lib/libarcsoft_portraitSN_hvx_stub.so,
+            lib/rfsa/adsp/libarcsoft_portraitSN_hvx_skel.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.fusion",
+  "Type": "String",
+  "Count": "2",
+  "Value": "lib64/libalhDZ.so,
+            etc/camera/FusionBin.dat",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.hdr",
+  "Type": "String",
+  "Count": "9",
+  "Value": "lib64/libarcsoft_hdr_denoise_api.so,
+            lib64/libarcsoft_high_dynamic_range.so,
+            lib64/libarcsoft_low_light_hdr.so,
+            lib64/libarcsoft_smart_denoise.so,
+            lib/libarcsoft_hdr_denoise_api.so,
+            lib/libarcsoft_high_dynamic_range.so,
+            lib/libarcsoft_low_light_hdr.so,
+            lib/libarcsoft_smart_denoise.so,
+            etc/camera/ashdr/ncf_pack.ncf",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.pf",
+  "Type": "String",
+  "Count": "2",
+  "Value": "lib64/libPerfectlyClearCrux.so,
+            lib/libPerfectlyClearCruxOpt.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.pf_v1",
+  "Type": "String",
+  "Count": "2",
+  "Value": "lib64/libPerfectlyClearCruxOpt.so,
+            lib/libPerfectlyClearCruxOpt.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.rawhdr",
+  "Type": "String",
+  "Count": "4",
+  "Value": "lib64/libVDBayerHDR.so,
+            lib64/libVDExternal.so,
+            lib/libVDBayerHDR.so,
+            lib/libVDExternal.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.rectify",
+  "Type": "String",
+  "Count": "4",
+  "Value": "lib64/lib_rectify.so,
+            lib64/libarcsoft_distortion_correction.so,
+            lib/lib_rectify.so,
+            lib/libarcsoft_distortion_correction.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.redeye",
+  "Type": "String",
+  "Count": "1",
+  "Value": "lib64/libRedeyeReduce.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.scportrait",
+  "Type": "String",
+  "Count": "2",
+  "Value": "lib64/libOPLUS_SCPortrait.so,
+            lib/libOPLUS_SCPortrait.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.singleblur",
+  "Type": "String",
+  "Count": "4",
+  "Value": "lib64/libstblur_api.so,
+            lib64/libstblur_capture_api.so,
+            lib/libstblur_api.so,
+            lib/libstblur_capture_api.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.supernight",
+  "Type": "String",
+  "Count": "5",
+  "Value": "lib64/libarcsoft_hdrplus_hvx_stub.so,
+            lib64/libarcsoft_super_night_raw.so,
+            lib/libarcsoft_hdrplus_hvx_stub.so,
+            lib/libarcsoft_super_night_raw.so,
+            lib/rfsa/adsp/libarcsoft_hdrplus_hvx_skel.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.superphoto",
+  "Type": "String",
+  "Count": "2",
+  "Value": "lib64/libVDSuperPhotoAPI.so,
+            lib/libVDSuperPhotoAPI.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.supersensor",
+  "Type": "String",
+  "Count": "9",
+  "Value": "lib64/libSuperSensor.so,
+            lib64/libSuperSensorCPU.so,
+            lib64/libSuperSensorProcessor.so,
+            lib64/libSuperSensorProcessorCWrapper.so,
+            lib/libSuperSensor.so,
+            lib/libSuperSensorCPU.so,
+            lib/libSuperSensorProcessor.so,
+            lib/libSuperSensorProcessorCWrapper.so,
+            lib/rfsa/adsp/libSuperSensor_skel.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.supertext",
+  "Type": "String",
+  "Count": "4",
+  "Value": "lib64/libXDocProcessSDK.so,
+            lib/libXDocProcessSDK.so,
+            etc/camera/model/DocDetectV15.xbin,
+            etc/camera/model/license.lic",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.upscale",
+  "Type": "String",
+  "Count": "1",
+  "Value": "lib64/libVDUpScale.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.videoblurcapture",
+  "Type": "String",
+  "Count": "10",
+  "Value": "lib64/libAncHumBokeh.so,
+            lib64/libAncHumBokehPost.so,
+            lib64/libancbase_rt_bokeh.so,
+            lib64/libsnpe_loader.so,
+            lib/libAncHumBokeh.so,
+            lib/libAncHumBokehPost.so,
+            lib/libancbase_rt_bokeh.so,
+            lib/libsnpe_loader.so,
+            etc/camera/megvii/merged_model,
+            etc/camera/megvii/merged_model_post",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.watermark",
+  "Type": "String",
+  "Count": "1",
+  "Value": "lib64/libwatermark_photo.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.preview_asd",
+  "Type": "String",
+  "Count": "4",
+  "Value": "lib64/libaisd.so,
+            lib64/libVDPostureDetection.so,
+            etc/camera/asd/class.dlc,
+            etc/camera/asd/detect.dlc",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.preview_facebeauty",
+  "Type": "String",
+  "Count": "3",
+  "Value": "lib64/libFaceBeautyPre.so,
+            lib/libFaceBeautyPre.so,
+            etc/camera/pfb_bin",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.preview_lsd",
+  "Type": "String",
+  "Count": "2",
+  "Value": "lib64/libarcsoft_lensstaindetection.so,
+            lib/libarcsoft_lensstaindetection.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.preview_pf",
+  "Type": "String",
+  "Count": "2",
+  "Value": "lib64/libCOppLceTonemapAPI.so,
+            lib/libCOppLceTonemapAPI.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.preview_rtb",
+  "Type": "String",
+  "Count": "9",
+  "Value": "lib64/libarcsoft_dualcam_bokeh_api.so,
+            lib64/libarcsoft_dualcam_refocus_left.so,
+            lib64/libarcsoft_dualcam_refocus_preview.so,
+            lib64/libarcsoft_dualcam_refocus_uw.so,
+            lib/libarcsoft_dualcam_bokeh_api.so,
+            lib/libarcsoft_dualcam_refocus_left.so,
+            lib/libarcsoft_dualcam_refocus_preview.so,
+            lib/libarcsoft_dualcam_refocus_uw.so,
+            lib/rfsa/adsp/libarcsoft_dualcam_refocus_skel.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.preview_supereis",
+  "Type": "String",
+  "Count": "19",
+  "Value": "lib64/android.frameworks.bufferhub@1.0.so,
+            lib64/android.hardware.graphics.allocator@2.0.so,
+            lib64/android.hardware.graphics.allocator@3.0.so,
+            lib64/android.hardware.graphics.allocator@4.0.so,
+            lib64/libDeVIS.so,
+            lib64/libEIS.so,
+            lib64/libhyperlapse.so,
+            lib64/libOGLManager.so,
+            lib64/libui.so,
+            lib/android.frameworks.bufferhub@1.0.so,
+            lib/android.hardware.graphics.allocator@2.0.so,
+            lib/android.hardware.graphics.allocator@3.0.so,
+            lib/android.hardware.graphics.allocator@4.0.so,
+            lib/libDeVIS.so,
+            lib/libEIS.so,
+            lib/libhyperlapse.so,
+            lib/libOGLManager.so,
+            lib/libui.so,
+            etc/camera/eis_camera.vcfg",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.preview_watermark",
+  "Type": "String",
+  "Count": "2",
+  "Value": "lib64/libWaterMark.so,
+            lib/libWaterMark.so",
+  "Comment": "version, person ,reason"
+},
+
+{
+  "VendorTag": "com.oplus.res.common",
+  "Type": "String",
+  "Count": "6",
+  "Value": "lib64/libapsexif.so,
+            lib64/libapsjpeg.so,
+            lib64/libmpbase.so,
+            lib/libapsexif.so,
+            lib/libapsjpeg.so,
+            lib/libmpbase.so",
+  "Comment": "version, person ,reason"
+}
+
+]
